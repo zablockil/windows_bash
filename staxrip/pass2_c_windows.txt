@@ -1,0 +1,2913 @@
+
+Microsoft Windows [Version 10.0.19045.3803]
+
+Here's the full list of files that will be checked:
+---------------------------------------------------
+./System32/downlevel/api-ms-win-core-console-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-datetime-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-debug-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-errorhandling-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-fibers-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-file-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-handle-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-heap-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-interlocked-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-libraryloader-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-memory-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-namedpipe-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-processenvironment-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-processthreads-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-profile-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-rtlsupport-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-string-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-synch-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-sysinfo-l1-1-0.dll
+./System32/downlevel/api-ms-win-core-util-l1-1-0.dll
+./System32/msvcp140_clr0400.dll
+./System32/vcruntime140_clr0400.dll
+./SysWOW64/downlevel/api-ms-win-core-console-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-datetime-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-debug-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-errorhandling-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-fibers-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-file-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-handle-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-heap-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-interlocked-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-libraryloader-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-memory-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-namedpipe-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-processenvironment-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-processthreads-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-profile-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-rtlsupport-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-string-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-synch-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-sysinfo-l1-1-0.dll
+./SysWOW64/downlevel/api-ms-win-core-util-l1-1-0.dll
+./SysWOW64/msvcp140_clr0400.dll
+./SysWOW64/vcruntime140_clr0400.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-console-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-datetime-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-debug-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-errorhandling-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-fibers-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-file-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-handle-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-heap-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-interlocked-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-libraryloader-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-memory-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-namedpipe-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-processenvironment-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-processthreads-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-profile-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-rtlsupport-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-string-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-synch-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-sysinfo-l1-1-0.dll
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-util-l1-1-0.dll
+./WinSxS/amd64_netfx4-msvcp140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_1d67e0567236fed9/msvcp140_clr0400.dll
+./WinSxS/amd64_netfx4-vcruntime140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_8b1c98bb123ba409/vcruntime140_clr0400.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-console-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-datetime-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-debug-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-errorhandling-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-fibers-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-file-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-handle-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-heap-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-interlocked-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-libraryloader-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-memory-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-namedpipe-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-processenvironment-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-processthreads-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-profile-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-rtlsupport-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-string-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-synch-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-sysinfo-l1-1-0.dll
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-util-l1-1-0.dll
+./WinSxS/x86_netfx4-msvcp140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_c14944d2b9d98da3/msvcp140_clr0400.dll
+./WinSxS/x86_netfx4-vcruntime140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_2efdfd3759de32d3/vcruntime140_clr0400.dll
+---------------------------------------------------
+
+================================================================================
+./System32/downlevel/api-ms-win-core-console-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-console-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-console-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-console-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-datetime-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-datetime-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-datetime-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-datetime-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-debug-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-debug-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-debug-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-debug-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-errorhandling-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-errorhandling-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-errorhandling-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-errorhandling-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-fibers-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-fibers-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-fibers-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-fibers-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-file-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-file-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-file-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-file-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-handle-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-handle-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-handle-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-handle-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-heap-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-heap-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-heap-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-heap-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-interlocked-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-interlocked-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-interlocked-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-interlocked-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-libraryloader-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-libraryloader-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-libraryloader-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-libraryloader-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-memory-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-memory-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-memory-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-memory-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-namedpipe-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-namedpipe-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-namedpipe-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-namedpipe-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-processenvironment-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-processenvironment-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-processenvironment-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-processenvironment-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-processthreads-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-processthreads-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-processthreads-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-processthreads-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-profile-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-profile-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-profile-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-profile-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-rtlsupport-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-rtlsupport-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-rtlsupport-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-rtlsupport-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-string-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-string-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-string-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-string-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-synch-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-synch-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-synch-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-synch-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-sysinfo-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-sysinfo-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-sysinfo-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-sysinfo-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/downlevel/api-ms-win-core-util-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\downlevel\api-ms-win-core-util-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-util-l1-1-0.dll (ROOT) : ./System32/downlevel/api-ms-win-core-util-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./System32/msvcp140_clr0400.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\msvcp140_clr0400.dll:
+        Verified:       Signed
+        Signing date:   4:59 PM 9/26/2018
+        Publisher:      Microsoft Corporation
+        Company:        Microsoft Corporation
+        Description:    Microsoft® C Runtime Library
+        Product:        Microsoft® Visual Studio® 2017
+        Prod version:   14.10.25028.0
+        File version:   14.10.25028.0 built by: VCTOOLSD15RTM
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+  Image has the following dependencies:
+    VCRUNTIME140_CLR0400.dll
+    ucrtbase_clr0400.dll
+    KERNEL32.dll
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã msvcp140_clr0400.dll (ROOT) : ./System32/msvcp140_clr0400.dll
+|  Ã VCRUNTIME140_CLR0400.dll (ApplicationDirectory) : .\System32\VCRUNTIME140_CLR0400.dll
+|  Ã ucrtbase_clr0400.dll (WindowsFolder) : C:\Windows\system32\ucrtbase_clr0400.dll
+|  Ã KERNEL32.dll (WellKnownDlls) : C:\Windows\system32\kernel32.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	VCRUNTIME140_CLR0400.dll => /c/test/pass2/System32/VCRUNTIME140_CLR0400.dll (0x7ffa78fc0000)
+	ucrtbase_clr0400.dll => /c/Windows/SYSTEM32/ucrtbase_clr0400.dll (0x7ffa78f00000)
+================================================================================
+================================================================================
+./System32/vcruntime140_clr0400.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\system32\vcruntime140_clr0400.dll:
+        Verified:       Signed
+        Signing date:   5:00 PM 9/26/2018
+        Publisher:      Microsoft Corporation
+        Company:        Microsoft Corporation
+        Description:    Microsoft® C Runtime Library
+        Product:        Microsoft® Visual Studio® 2017
+        Prod version:   14.10.25028.0
+        File version:   14.10.25028.0 built by: VCTOOLSD15RTM
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+  Image has the following dependencies:
+    ucrtbase_clr0400.dll
+    KERNEL32.dll
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã vcruntime140_clr0400.dll (ROOT) : ./System32/vcruntime140_clr0400.dll
+|  Ã ucrtbase_clr0400.dll (WindowsFolder) : C:\Windows\system32\ucrtbase_clr0400.dll
+|  Ã KERNEL32.dll (WellKnownDlls) : C:\Windows\system32\kernel32.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	ucrtbase_clr0400.dll => /c/Windows/SYSTEM32/ucrtbase_clr0400.dll (0x7ffa78fa0000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-console-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-console-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-console-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-console-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-console-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-console-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-datetime-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-datetime-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-datetime-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-datetime-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-datetime-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-datetime-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-debug-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-debug-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-debug-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-debug-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-debug-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-debug-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-errorhandling-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-errorhandling-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-errorhandling-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-errorhandling-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-errorhandling-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-errorhandling-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-fibers-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-fibers-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-fibers-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-fibers-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-fibers-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-fibers-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-file-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-file-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-file-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-file-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-file-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-file-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-handle-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-handle-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-handle-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-handle-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-handle-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-handle-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-heap-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-heap-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-heap-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-heap-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-heap-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-heap-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-interlocked-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-interlocked-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-interlocked-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-interlocked-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-interlocked-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-interlocked-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-libraryloader-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-libraryloader-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-libraryloader-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-libraryloader-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-libraryloader-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-libraryloader-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-memory-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-memory-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-memory-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-memory-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-memory-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-memory-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-namedpipe-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-namedpipe-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-namedpipe-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-namedpipe-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-namedpipe-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-namedpipe-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-processenvironment-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-processenvironment-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-processenvironment-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-processenvironment-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-processenvironment-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-processenvironment-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-processthreads-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-processthreads-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-processthreads-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-processthreads-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-processthreads-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-processthreads-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-profile-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-profile-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-profile-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-profile-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-profile-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-profile-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-rtlsupport-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-rtlsupport-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-rtlsupport-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-rtlsupport-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-rtlsupport-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-rtlsupport-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-string-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-string-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-string-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-string-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-string-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-string-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-synch-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-synch-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-synch-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-synch-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-synch-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-synch-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-sysinfo-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-sysinfo-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-sysinfo-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-sysinfo-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-sysinfo-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-sysinfo-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/downlevel/api-ms-win-core-util-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\downlevel\api-ms-win-core-util-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-util-l1-1-0.dll (ROOT) : ./SysWOW64/downlevel/api-ms-win-core-util-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-util-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-util-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./SysWOW64/msvcp140_clr0400.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\msvcp140_clr0400.dll:
+        Verified:       Signed
+        Signing date:   4:51 PM 9/26/2018
+        Publisher:      Microsoft Corporation
+        Company:        Microsoft Corporation
+        Description:    Microsoft® C Runtime Library
+        Product:        Microsoft® Visual Studio® 2017
+        Prod version:   14.10.25028.0
+        File version:   14.10.25028.0 built by: VCTOOLSD15RTM
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+  Image has the following dependencies:
+    VCRUNTIME140_CLR0400.dll
+    ucrtbase_clr0400.dll
+    KERNEL32.dll
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã msvcp140_clr0400.dll (ROOT) : ./SysWOW64/msvcp140_clr0400.dll
+|  Ã VCRUNTIME140_CLR0400.dll (ApplicationDirectory) : .\SysWOW64\VCRUNTIME140_CLR0400.dll
+|  Ã ucrtbase_clr0400.dll (WindowsFolder) : C:\Windows\SysWOW64\ucrtbase_clr0400.dll
+|  Ã KERNEL32.dll (WellKnownDlls) : C:\Windows\SysWOW64\kernel32.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	msvcp140_clr0400.dll => /c/test/pass2/SysWOW64/msvcp140_clr0400.dll (0x752e0000)
+================================================================================
+================================================================================
+./SysWOW64/vcruntime140_clr0400.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\syswow64\vcruntime140_clr0400.dll:
+        Verified:       Signed
+        Signing date:   4:53 PM 9/26/2018
+        Publisher:      Microsoft Corporation
+        Company:        Microsoft Corporation
+        Description:    Microsoft® C Runtime Library
+        Product:        Microsoft® Visual Studio® 2017
+        Prod version:   14.10.25028.0
+        File version:   14.10.25028.0 built by: VCTOOLSD15RTM
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+  Image has the following dependencies:
+    ucrtbase_clr0400.dll
+    KERNEL32.dll
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã vcruntime140_clr0400.dll (ROOT) : ./SysWOW64/vcruntime140_clr0400.dll
+|  Ã ucrtbase_clr0400.dll (WindowsFolder) : C:\Windows\SysWOW64\ucrtbase_clr0400.dll
+|  Ã KERNEL32.dll (WellKnownDlls) : C:\Windows\SysWOW64\kernel32.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	vcruntime140_clr0400.dll => /c/test/pass2/SysWOW64/vcruntime140_clr0400.dll (0x75330000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-console-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-console-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-console-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-console-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-datetime-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-datetime-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-datetime-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-datetime-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-debug-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-debug-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-debug-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-debug-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-errorhandling-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-errorhandling-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-errorhandling-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-errorhandling-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-fibers-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-fibers-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-fibers-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-fibers-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-file-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-file-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-file-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-file-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-handle-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-handle-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-handle-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-handle-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-heap-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-heap-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-heap-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-heap-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-interlocked-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-interlocked-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-interlocked-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-interlocked-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-libraryloader-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-libraryloader-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-libraryloader-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-libraryloader-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-memory-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-memory-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-memory-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-memory-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-namedpipe-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-namedpipe-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-namedpipe-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-namedpipe-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-processenvironment-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-processenvironment-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-processenvironment-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-processenvironment-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-processthreads-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-processthreads-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-processthreads-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-processthreads-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-profile-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-profile-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-profile-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-profile-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-rtlsupport-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-rtlsupport-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-rtlsupport-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-rtlsupport-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-string-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-string-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-string-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-string-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-synch-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-synch-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-synch-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-synch-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-sysinfo-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-sysinfo-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-sysinfo-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-sysinfo-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-util-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456\api-ms-win-core-util-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:57 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-util-l1-1-0.dll (ROOT) : ./WinSxS/amd64_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_7d55e8342077d456/api-ms-win-core-util-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+================================================================================
+================================================================================
+./WinSxS/amd64_netfx4-msvcp140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_1d67e0567236fed9/msvcp140_clr0400.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_netfx4-msvcp140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_1d67e0567236fed9\msvcp140_clr0400.dll:
+        Verified:       Signed
+        Signing date:   4:59 PM 9/26/2018
+        Publisher:      Microsoft Corporation
+        Company:        Microsoft Corporation
+        Description:    Microsoft® C Runtime Library
+        Product:        Microsoft® Visual Studio® 2017
+        Prod version:   14.10.25028.0
+        File version:   14.10.25028.0 built by: VCTOOLSD15RTM
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+  Image has the following dependencies:
+    VCRUNTIME140_CLR0400.dll
+    ucrtbase_clr0400.dll
+    KERNEL32.dll
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã msvcp140_clr0400.dll (ROOT) : ./WinSxS/amd64_netfx4-msvcp140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_1d67e0567236fed9/msvcp140_clr0400.dll
+|  Ã VCRUNTIME140_CLR0400.dll (WindowsFolder) : C:\Windows\system32\VCRUNTIME140_CLR0400.dll
+|  Ã ucrtbase_clr0400.dll (WindowsFolder) : C:\Windows\system32\ucrtbase_clr0400.dll
+|  Ã KERNEL32.dll (WellKnownDlls) : C:\Windows\system32\kernel32.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	VCRUNTIME140_CLR0400.dll => /c/Windows/SYSTEM32/VCRUNTIME140_CLR0400.dll (0x7ffa79830000)
+	ucrtbase_clr0400.dll => /c/Windows/SYSTEM32/ucrtbase_clr0400.dll (0x7ffa796a0000)
+================================================================================
+================================================================================
+./WinSxS/amd64_netfx4-vcruntime140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_8b1c98bb123ba409/vcruntime140_clr0400.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\amd64_netfx4-vcruntime140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_8b1c98bb123ba409\vcruntime140_clr0400.dll:
+        Verified:       Signed
+        Signing date:   5:00 PM 9/26/2018
+        Publisher:      Microsoft Corporation
+        Company:        Microsoft Corporation
+        Description:    Microsoft® C Runtime Library
+        Product:        Microsoft® Visual Studio® 2017
+        Prod version:   14.10.25028.0
+        File version:   14.10.25028.0 built by: VCTOOLSD15RTM
+        MachineType:    64-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+  Image has the following dependencies:
+    ucrtbase_clr0400.dll
+    KERNEL32.dll
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã vcruntime140_clr0400.dll (ROOT) : ./WinSxS/amd64_netfx4-vcruntime140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_8b1c98bb123ba409/vcruntime140_clr0400.dll
+|  Ã ucrtbase_clr0400.dll (WindowsFolder) : C:\Windows\system32\ucrtbase_clr0400.dll
+|  Ã KERNEL32.dll (WellKnownDlls) : C:\Windows\system32\kernel32.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	ucrtbase_clr0400.dll => /c/Windows/SYSTEM32/ucrtbase_clr0400.dll (0x7ffa79810000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-console-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-console-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-console-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-console-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-console-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-console-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-datetime-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-datetime-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-datetime-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-datetime-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-datetime-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-datetime-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-debug-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-debug-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-debug-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-debug-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-debug-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-debug-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-errorhandling-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-errorhandling-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-errorhandling-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-errorhandling-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-errorhandling-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-errorhandling-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-fibers-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-fibers-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-fibers-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-fibers-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-fibers-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-fibers-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-file-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-file-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-file-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-file-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-file-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-file-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-handle-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-handle-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-handle-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-handle-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-handle-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-handle-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-heap-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-heap-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-heap-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-heap-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-heap-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-heap-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-interlocked-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-interlocked-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-interlocked-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-interlocked-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-interlocked-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-interlocked-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-libraryloader-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-libraryloader-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-libraryloader-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-libraryloader-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-libraryloader-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-libraryloader-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-memory-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-memory-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-memory-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-memory-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-memory-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-memory-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-namedpipe-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-namedpipe-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-namedpipe-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-namedpipe-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-namedpipe-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-namedpipe-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-processenvironment-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-processenvironment-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-processenvironment-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-processenvironment-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-processenvironment-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-processenvironment-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-processthreads-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-processthreads-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-processthreads-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-processthreads-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-processthreads-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-processthreads-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-profile-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-profile-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-profile-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-profile-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-profile-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-profile-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-rtlsupport-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-rtlsupport-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-rtlsupport-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-rtlsupport-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-rtlsupport-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-rtlsupport-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-string-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-string-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-string-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-string-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-string-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-string-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-synch-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-synch-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-synch-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-synch-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-synch-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-synch-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-sysinfo-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-sysinfo-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-sysinfo-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-sysinfo-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-sysinfo-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-sysinfo-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-util-l1-1-0.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320\api-ms-win-core-util-l1-1-0.dll:
+        Verified:       Signed
+        Signing date:   5:43 PM 12/6/2019
+        Publisher:      Microsoft Windows
+        Company:        Microsoft Corporation
+        Description:    ApiSet Stub DLL
+        Product:        Microsoft® Windows® Operating System
+        Prod version:   10.0.19041.1
+        File version:   10.0.19041.1 (WinBuild.160101.0800)
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã api-ms-win-core-util-l1-1-0.dll (ROOT) : ./WinSxS/x86_microsoft-windows-m..namespace-downlevel_31bf3856ad364e35_10.0.19041.1_none_21374cb0681a6320/api-ms-win-core-util-l1-1-0.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	api-ms-win-core-util-l1-1-0.dll => /c/test/pass2/SysWOW64/downlevel/api-ms-win-core-util-l1-1-0.dll (0x75340000)
+================================================================================
+================================================================================
+./WinSxS/x86_netfx4-msvcp140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_c14944d2b9d98da3/msvcp140_clr0400.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_netfx4-msvcp140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_c14944d2b9d98da3\msvcp140_clr0400.dll:
+        Verified:       Signed
+        Signing date:   4:51 PM 9/26/2018
+        Publisher:      Microsoft Corporation
+        Company:        Microsoft Corporation
+        Description:    Microsoft® C Runtime Library
+        Product:        Microsoft® Visual Studio® 2017
+        Prod version:   14.10.25028.0
+        File version:   14.10.25028.0 built by: VCTOOLSD15RTM
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+  Image has the following dependencies:
+    VCRUNTIME140_CLR0400.dll
+    ucrtbase_clr0400.dll
+    KERNEL32.dll
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã msvcp140_clr0400.dll (ROOT) : ./WinSxS/x86_netfx4-msvcp140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_c14944d2b9d98da3/msvcp140_clr0400.dll
+|  Ã VCRUNTIME140_CLR0400.dll (WindowsFolder) : C:\Windows\SysWOW64\VCRUNTIME140_CLR0400.dll
+|  Ã ucrtbase_clr0400.dll (WindowsFolder) : C:\Windows\SysWOW64\ucrtbase_clr0400.dll
+|  Ã KERNEL32.dll (WellKnownDlls) : C:\Windows\SysWOW64\kernel32.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	msvcp140_clr0400.dll => /c/test/pass2/SysWOW64/msvcp140_clr0400.dll (0x752e0000)
+================================================================================
+================================================================================
+./WinSxS/x86_netfx4-vcruntime140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_2efdfd3759de32d3/vcruntime140_clr0400.dll --***--
+-=-=-=-=-=-=-=-=-=-=-=-=-
+  sigcheck64.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-
+C:\test\pass2\winsxs\x86_netfx4-vcruntime140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_2efdfd3759de32d3\vcruntime140_clr0400.dll:
+        Verified:       Signed
+        Signing date:   4:53 PM 9/26/2018
+        Publisher:      Microsoft Corporation
+        Company:        Microsoft Corporation
+        Description:    Microsoft® C Runtime Library
+        Product:        Microsoft® Visual Studio® 2017
+        Prod version:   14.10.25028.0
+        File version:   14.10.25028.0 built by: VCTOOLSD15RTM
+        MachineType:    32-bit
+-=-=-=-=-=-=-=-=-=-=-=
+  dumpbin.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=
+  Image has the following dependencies:
+    ucrtbase_clr0400.dll
+    KERNEL32.dll
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Dependencies.exe COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Ã vcruntime140_clr0400.dll (ROOT) : ./WinSxS/x86_netfx4-vcruntime140_clr_dll_31bf3856ad364e35_4.0.15805.0_none_2efdfd3759de32d3/vcruntime140_clr0400.dll
+|  Ã ucrtbase_clr0400.dll (WindowsFolder) : C:\Windows\SysWOW64\ucrtbase_clr0400.dll
+|  Ã KERNEL32.dll (WellKnownDlls) : C:\Windows\SysWOW64\kernel32.dll
+-=-=-=-=-=-=-=-=-=-=-=-
+  ldd (cygwin) COMMAND:
+-=-=-=-=-=-=-=-=-=-=-=-
+	ntdll.dll => /c/Windows/SYSTEM32/ntdll.dll (0x7ffa7e890000)
+	KERNEL32.DLL => /c/Windows/System32/KERNEL32.DLL (0x7ffa7d0e0000)
+	KERNELBASE.dll => /c/Windows/System32/KERNELBASE.dll (0x7ffa7bf70000)
+	msvcrt.dll => /c/Windows/System32/msvcrt.dll (0x7ffa7e340000)
+	vcruntime140_clr0400.dll => /c/test/pass2/SysWOW64/vcruntime140_clr0400.dll (0x75330000)
+================================================================================
